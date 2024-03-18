@@ -1,0 +1,122 @@
+.main{
+
+    background-size: cover;
+    height: 100%;
+    position: relative;
+    top: 0;
+
+
+}
+body{
+  background-color: black;
+  background-image:  url("https://assets.nflxext.com/ffe/siteui/vlv3/9d3533b2-0e2b-40b2-95e0-ecd7979cc88b/a3873901-5b7c-46eb-b9fa-12fea5197bd3/IN-en-20240311-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.bb{
+  background:rgba(0,0,0,0.5);
+
+  /* margin-left: 400px;
+  margin-right: 400px; */
+
+
+
+}
+.email{
+  background: rgba(0,0,0,0.5);
+  height: 50px;
+  width: 300px;
+  color: white;
+
+
+}
+
+img{
+  margin-left: 150px;
+
+}
+input{
+
+  margin:5px;
+
+
+}
+.cb{
+  height: 10px;
+  width: 10px
+}
+.sgn{
+  background-color: red;
+  color:white;
+  opacity:1;
+  height: 50px;
+  width: 300px;
+
+
+
+}
+.bb{
+  display:flex;
+  height:630px;
+  width:530px;
+  opacity: 0.9;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+
+}
+.lb{
+  color:white;
+
+}
+.pas{
+  background: rgba(0,0,0,0.5);
+  height: 50px;
+  width: 300px;
+  color:white;
+
+}
+.code{
+  background: rgba(0,0,0,0.5);
+  height: 50px;
+  width: 300px;
+  color: white;
+
+}
+#hd1{
+  color:white;
+  font-size: 35px;
+  margin-left:  120px;
+  margin-bottom: 50px;
+  font-family: sans-serif;
+  margin-bottom: 6px;
+}
+.or{
+  color:white;
+  font-style: normal;
+}
+.nn{
+  color: white;
+  margin-left: 120px;
+  text-align: left;
+}
+.fg{
+  color: white;
+  margin-left:
+}
+.ll{
+  color: white;
+  margin-left: 120px;
+  text-align: left;
+}
+a{
+  text-decoration: none;
+  color:#0071eb
+  /* font family:"Segoe UI"; */
+
+}
+a:hover{
+  text-decoration: underline;
+  color:#0071eb
+
+}
